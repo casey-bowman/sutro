@@ -1,4 +1,4 @@
 sutro
 =====
 
-A bitcoin implementation written in Java 8 with an emphasis on modularity
+A bitcoin implementation written in Kotlin with an emphasis on modularity
